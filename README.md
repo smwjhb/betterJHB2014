@@ -1,4 +1,4 @@
-#betterJHB2014
+betterJHB_2014
 ==============
 
 Hacking for A Better Johannesburg
